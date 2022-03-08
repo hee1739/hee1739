@@ -8,3 +8,11 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
+
+### 
+### Github Stats
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korpg9527&show_icons=true&theme=merko)
+### 
+### Github Langs
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korpg9527&layout=compact&theme=merko)
